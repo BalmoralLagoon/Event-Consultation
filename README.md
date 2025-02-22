@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8" />
@@ -44,3 +44,4 @@
   </script>
 </body>
 </html>
+](https://github.com/BalmoralLagoon/Event-Consultation/settings/pages#:~:text=https%3A//balmorallagoon.github.io/Event%2DConsultation/)
