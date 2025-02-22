@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Eventective Inquiry Form</title>
+</head>
+<body>
+  <h1>Eventective Inquiry Form</h1>
+  
+  <!-- Replace the key in the SRC attribute with the one provided by Eventective -->
+  <script
+    id="ee-inquiry-form-widget"
+    src="https://www.eventective.com/providerwidget/widget/widgetscriptinline.js?key=UDU4bjM2S2ZGNUUrWFB3VDNEeSt2cE9QRHJ1TWl3dUpRMVVWUGlOVlJ4cnNDRzhLSXVLT29PYWlPazVJV2xoNg">
+  </script>
+</body>
+</html>
